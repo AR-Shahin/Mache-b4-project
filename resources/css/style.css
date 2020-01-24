@@ -124,7 +124,7 @@ nav ul li a:hover{
 }
 .laptop-section .bejal{
     position: relative;
-    top: -28px;
+    top: -35px;
     z-index: -8;
     max-width: 100%;
 }
@@ -163,9 +163,12 @@ nav ul li a:hover{
     color: #111;
     text-decoration: none;
 }
-.laptop-section .img-wrapper{
+
+.laptop-section  .img-wrapper{
     position: relative;
-    bottom: -15%;
+    bottom: -60px;
+    
+    
 }
 /* services-section */
 .services-section {
